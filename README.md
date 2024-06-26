@@ -1,6 +1,6 @@
 # STS Matching
 
-A small repository to match student preferences for thesis topics and availability of supervisors for a fair workload: Student Thesis Supervisor (STS) Matching.
+A small repository to match student preferences for thesis topics and availability of supervisors for a fair workload: in short Student Thesis Supervisor (STS) Matching.
 
 The repository has two Jupyter notebooks. First is a web-crawler specifically for the GRS group at Wageningen University to prepare the list of supervisors and topics. The crawler works with the 2024 version of https://www.wur.nl. It may be necessary to update it if the website changes.
 
