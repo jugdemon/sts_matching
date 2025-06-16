@@ -1,0 +1,10 @@
+Topic ID	Thesis Topic	Supervisor	Co-Supervisor	Link	Max students per topic
+1	Topic A	link_to_supervisor_1	link_to_supervisor_6	link_to_topic_a	2
+1	Topic B	link_to_supervisor_2		link_to_topic_b	1
+1	Topic C	link_to_supervisor_3	link_to_supervisor_1	link_to_topic_c	2
+1	Topic D	link_to_supervisor_4		link_to_topic_d	1
+1	Topic E	link_to_supervisor_5	link_to_supervisor_3	link_to_topic_e	1
+1	Topic F	link_to_supervisor_6	link_to_supervisor_7	link_to_topic_f	1
+1	Topic G	link_to_supervisor_7		link_to_topic_g	2
+1	Topic H	link_to_supervisor_4	link_to_supervisor_5	link_to_topic_h	3
+1	Topic I	link_to_supervisor_7		link_to_topic_i	1
